@@ -1,4 +1,4 @@
-# 🔍 Fraud Detector Dashboard
+# 🔍 Personal Finance Fraud Detector
 
 A full-stack personal finance transaction monitoring app that automatically detects suspicious activity using rule-based fraud detection.
 
